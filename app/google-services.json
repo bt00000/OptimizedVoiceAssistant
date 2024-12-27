@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "772975479060",
+    "project_id": "voicify-1",
+    "storage_bucket": "voicify-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772975479060:android:e0e77b3943135a15939a01",
+        "android_client_info": {
+          "package_name": "com.research.activityinvoker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsconAUbBPY2-pvczpCNLePpehPduYjfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
