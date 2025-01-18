@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/0cf84382-d6b7-49b8-852b-d27b829dedfe
+
 Instruction of running the project
 1. Download the project and open it on Android Studio
 2. Run the project by clicking the Run Button
